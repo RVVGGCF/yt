@@ -1,4 +1,4 @@
-ovh ddos tool
+//ovh ddos tool
 // Global error handling (Ignoring system for helpless error logs)
 const request = require('request'),
     cloudscraper = require('cloudscraper'),
